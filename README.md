@@ -80,6 +80,8 @@ git clone https://github.com/dososo/blcaptain-shouxiang.git
 | Codex | `~/.agents/skills/blcaptain-shouxiang/` 或 `~/.codex/skills/blcaptain-shouxiang/` | `$blcaptain-shouxiang` 加需求 |
 | Claude Code | `~/.claude/skills/blcaptain-shouxiang/`，或项目内 `.claude/skills/blcaptain-shouxiang/` | `/blcaptain-shouxiang` 加需求 |
 
+也可以从 [Releases](https://github.com/dososo/blcaptain-shouxiang/releases) 下载 `blcaptain-shouxiang-v2.0.0.zip`，解压得到的 `blcaptain-shouxiang/` 目录就是技能本身；同页附 SHA-256 校验和。
+
 请保留 `scripts/`、`references/`、`agents/`、`assets/`、`LICENSE` 与 `NOTICE`。重启或重新加载工具，确认它实际发现了技能；自动触发由宿主决定。卸载时移走这个目录即可。
 
 运行环境：Python 3.10 及以上。装了 Pillow 时原照可以是 JPEG，否则只收 PNG。不联网，不需要 API key。
