@@ -1,0 +1,13 @@
+{
+  "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+  "SKILL.md": "5ea62de3484eb32addf4f39fc50be9cbc4cf2738f331f9604fdbeda7cf3b03d5",
+  "assets/icon.svg": "d6b6756cd15a8828947c4f18f6beef2cf755c712321471d2164a0ccd12af28c3",
+  "references/指南断语库.json": "17fe5f91e55bef9f13c0c12813bd36579336f2971df6c860de07020f34e5312f",
+  "references/指南观察契约.md": "1591462b12ddcb37c6e49b38e9e4f3fe483bb9a06c8aa4ce40f072f0fd433833",
+  "references/指南观察示例.json": "60cc3830670fff036ee4ac974297df3f98e63a2e5eaf7186c514e4e277d740b6",
+  "scripts/guide_checks.py": "290f8d22f17364efec47d23591338a8c001e28542f66908c545dc21bbad76e2f",
+  "scripts/guide_layout.py": "99558ae91f866dcc698428bbf2abc342eda8b64578992698c1b1f7b3527cc2e0",
+  "scripts/guide_reading.py": "1396737fe933c6fa1a66d27527c6f492608cb3ac54243645d312fb7b2f116fbe",
+  "scripts/palm.py": "5aba37143b17abbc0a4829432229e0c5f7d0f1e99312e42a5adfb7ca4e7c711a",
+  "scripts/refresh_manifest.py": "1cfe45f4aaa57407b4daae14dd2f9c5423ec558b3f4f1525f3918d37d93fc737"
+}

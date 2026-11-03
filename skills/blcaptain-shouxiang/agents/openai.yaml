@@ -1,0 +1,6 @@
+interface:
+  display_name: "掌中有话 · 手相指南"
+  short_description: "看一张手掌照片，生成直白的娱乐向手相指南 HTML：签、指数、流年流月、人生阶段与逐条掌纹解读"
+  default_prompt: "使用 $blcaptain-shouxiang 看这张手掌照片，按观察契约逐处记录，生成一份手相指南 HTML；原照只在本机使用。"
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
