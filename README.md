@@ -80,7 +80,7 @@ git clone https://github.com/dososo/blcaptain-shouxiang.git
 | Codex | `~/.agents/skills/blcaptain-shouxiang/` 或 `~/.codex/skills/blcaptain-shouxiang/` | `$blcaptain-shouxiang` 加需求 |
 | Claude Code | `~/.claude/skills/blcaptain-shouxiang/`，或项目内 `.claude/skills/blcaptain-shouxiang/` | `/blcaptain-shouxiang` 加需求 |
 
-也可以从 [Releases](https://github.com/dososo/blcaptain-shouxiang/releases) 下载 `blcaptain-shouxiang-v2.0.0.zip`，解压得到的 `blcaptain-shouxiang/` 目录就是技能本身；同页附 SHA-256 校验和。
+也可以从 [Releases](https://github.com/dososo/blcaptain-shouxiang/releases) 下载 `blcaptain-shouxiang-v2.0.1.zip`，解压得到的 `blcaptain-shouxiang/` 目录就是技能本身；同页附 SHA-256 校验和。
 
 请保留 `scripts/`、`references/`、`agents/`、`assets/`、`LICENSE` 与 `NOTICE`。重启或重新加载工具，确认它实际发现了技能；自动触发由宿主决定。卸载时移走这个目录即可。
 

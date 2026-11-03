@@ -4,7 +4,7 @@ description: 用户发来手掌照片，想看手相、算命、财运、桃花�
 license: Apache-2.0
 metadata:
   author: 爆裂队长NEXT（BLCaptain）
-  version: 2.0.0
+  version: 2.0.1
 ---
 
 # 掌中有话 · 手相指南

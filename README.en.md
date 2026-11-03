@@ -84,7 +84,7 @@ Copy the **whole** `skills/blcaptain-shouxiang` directory into your skills folde
 | Codex | `~/.agents/skills/blcaptain-shouxiang/` or `~/.codex/skills/blcaptain-shouxiang/` | `$blcaptain-shouxiang` plus your request |
 | Claude Code | `~/.claude/skills/blcaptain-shouxiang/`, or `.claude/skills/blcaptain-shouxiang/` inside a project | `/blcaptain-shouxiang` plus your request |
 
-You can also download `blcaptain-shouxiang-v2.0.0.zip` from [Releases](https://github.com/dososo/blcaptain-shouxiang/releases); unzipping it gives the `blcaptain-shouxiang/` skill directory itself. A SHA-256 checksum is attached on the same page.
+You can also download `blcaptain-shouxiang-v2.0.1.zip` from [Releases](https://github.com/dososo/blcaptain-shouxiang/releases); unzipping it gives the `blcaptain-shouxiang/` skill directory itself. A SHA-256 checksum is attached on the same page.
 
 Keep `scripts/`, `references/`, `agents/`, `assets/`, `LICENSE` and `NOTICE`. Restart or reload the tool and confirm it has found the skill; whether it triggers automatically is up to the host. To uninstall, remove the directory.
 
